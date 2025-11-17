@@ -1,0 +1,2 @@
+||youtube.com^$csp=script-src-elem * data: blob: 'unsafe-inline' 'unsafe-eval'
+||youtube.com^$csp=script-src * data: blob: 'unsafe-inline' 'unsafe-eval'
